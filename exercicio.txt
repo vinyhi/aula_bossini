@@ -1,0 +1,11 @@
+git add calculadora.py
+git commit
+git push -u
+git tag -a v1.2.0 c03b2a0
+git push origin v1.2.0
+
+git add teste_calculadora.py
+git commit
+git push -u
+git tag -a v1.3.0 1a3c316
+git push origin v1.3.0
